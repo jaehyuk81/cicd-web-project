@@ -8,6 +8,8 @@
     <h1>Hi, there (updated by tester)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2</h3>
-    <h3>copyright LDCC @2023</h3>
+    <h3>copyright LDCC@2023</h3>
+
+    <h1>All courses is done. Congratulation!!!</h1>
 </body>
 </html>
